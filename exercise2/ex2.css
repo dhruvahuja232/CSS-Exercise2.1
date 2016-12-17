@@ -1,0 +1,88 @@
+*{margin: 0px;
+  padding: 0px;}
+#header {
+		background: #b2e7ff;
+		font-family: tahoma;
+		height: 20px;
+		padding-bottom: 20px;
+}
+.image1{
+		float: left;
+}
+a {
+	padding: 12px;
+	font-family: tahoma;
+	font-weight: 800;	
+	color: black;
+	font-size: 15px;
+}
+.home {
+	margin-left: 20%;
+	color: white;
+}
+#creativity {  
+		margin: 0px;
+}
+.create {
+		width: 100%;
+}
+.heading1 {
+   position: relative;
+   text-align: center;
+   padding-bottom: 30px;
+   padding-top: 30px;
+   font-family: tahoma;
+   
+}
+.border{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.borderline{
+	 line-height: 1em;
+	 height: 2px;
+	 background-color:#b2e7ff;
+	 border: 0px;
+}
+.para{
+	text-align: center;
+	color: grey;
+	font-size: 11px;
+}
+#first {
+   margin-top: 2%;
+   margin-left: 23%;
+   width: 75%;
+   height: 200px;
+}
+.design{
+   width: 75%;
+   height: 70px;
+}
+.picture {
+   width: 20%;
+   float: left;
+   text-align: center;
+   font-size: 10px;   	
+   font-family: tahoma;
+}
+.center{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	color: white;
+}
+.image2 {
+	position: relative;	
+	height: 250px;
+}
+.jobs {
+	width: 100%;
+}
